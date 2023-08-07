@@ -1,1 +1,1 @@
-<img src="public/Googlelogo.png">###Google Search
+<img src="public/Googlelogo.png"><h1> Google Search </h1>
