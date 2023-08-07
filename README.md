@@ -1,1 +1,1 @@
-<h1> <img src="public/Googlelogo.png" height="3%" width="3%"> Google Search </h1>
+<h1> <img src="public/Googlelogo.png" height="2%" width="2%"> Google Search </h1>
